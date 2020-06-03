@@ -1,1 +1,18 @@
 /* Add your CSS Below */
+.box_oneb{
+    position: relative;
+   
+    bottom: 15px;
+    left: 15px;
+}
+.box_twoc{
+    position: absolute;
+    left: 232px;
+    top: 409px;
+}
+.box_3a {
+    position: fixed;
+    left: 950px;
+
+   
+}
